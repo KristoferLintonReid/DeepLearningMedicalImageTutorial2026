@@ -17,6 +17,7 @@ This repository contains all the notebooks and resources needed to complete the 
 |:-----:|:---------|:------------|
 | 1 | [Data_exploration.ipynb](https://colab.research.google.com/github/KristoferLintonReid/DeepLearningMedicalImageTutorial2026/blob/main/Data_exploration.ipynb) | **Start Here**: Explore the PathMNIST dataset, visualize medical images, and understand data preprocessing requirements. |
 | 2 | [Building_Models.ipynb](https://colab.research.google.com/github/KristoferLintonReid/DeepLearningMedicalImageTutorial2026/blob/main/Building_Models.ipynb) | **Core Learning**: Implement and compare three key strategies: Radiomics, SimpleCNN, and Contrastive Learning. |
+| 3 | [project.ipynb](https://colab.research.google.com/github/KristoferLintonReid/DeepLearningMedicalImageTutorial2026/blob/main/project.ipynb) | **Capstone Project**: Apply your skills to a new dataset (PneumoniaMNIST). Define the problem, designing a model, and rigorously evaluating precision/recall/AUC. |
 
 ---
 
@@ -26,6 +27,7 @@ This repository contains all the notebooks and resources needed to complete the 
 |:---------|:--------------|
 | Data Exploration | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KristoferLintonReid/DeepLearningMedicalImageTutorial2026/blob/main/Data_exploration.ipynb) |
 | Building Models | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KristoferLintonReid/DeepLearningMedicalImageTutorial2026/blob/main/Building_Models.ipynb) |
+| Capstone Project | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KristoferLintonReid/DeepLearningMedicalImageTutorial2026/blob/main/project.ipynb) |
 
 ## Learning Outcomes
 
